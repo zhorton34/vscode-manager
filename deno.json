@@ -1,0 +1,5 @@
+{
+    "tasks": {
+        "vscode-manager": "deno run -A ./main.ts"
+    }
+}

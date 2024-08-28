@@ -1,0 +1,6 @@
+{
+    "deno.enable": true,
+    "deno.codeLens.test": true,
+    "deno.lint": true,
+    "deno.unstable": true
+}
